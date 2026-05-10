@@ -1,4 +1,4 @@
-
+Enhance Bitwarden for macOS with automatic Bitwarden for macOS Module | encryption + secure-storage, the #1 module. Includes encryption and secure-storage for a safer macOS
 
 
 
